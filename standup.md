@@ -12,10 +12,10 @@
 ### General Responsibilities for All Team Members
 
 
-### Current work progress
+### Current work progress.
 
 
-### Current problems 
+### Current problems.
 
 
 ### unfinished work for each member
