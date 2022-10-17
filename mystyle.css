@@ -1,0 +1,126 @@
+/*This is the comment*/
+h1,h2{
+    color: orange
+}
+*{
+    color:rgb(255, 99, 71)
+}
+h3{
+    color:#FFFFFF
+}
+option[value="bad"]{
+    color: chartreuse;
+}
+div p{
+    color: darkblue;
+}
+div > label{
+    color: darkorange;
+}
+div ~ p{
+    color: darkseagreen;
+}
+div + p{
+    color: magenta;
+}
+h1.combine{
+    color: green;
+}
+ul{
+    color:hsl(9, 100%, 64%)
+}
+div {
+    background-color: lightblue;
+}
+.mem li {
+    font-size: 1.9em;
+}
+.business li{
+    font-size: 1.3rem;
+}
+.new li{
+    font-size: 32px;
+}
+.agenda li{
+    font-size: 1cm
+}
+.head h1{
+    font-size: 15mm
+}
+.head h2{
+    font-size: 40Q
+}
+.mem {
+    margin: 10px;
+    margin-bottom: 30px;
+}
+.business {
+    position: fixed;
+    padding: 20px;
+    padding-left: 30px;
+}
+.agenda {
+    border: 20px;
+    border-color: white;
+    border-radius: 20ex;
+    border-width: 1cm;
+    border-top-style: dotted;
+}
+.text {
+    text-align: center;
+    text-decoration-line: underline;
+    color: aqua;
+}
+.text {
+    display: inline;
+}
+.para {
+    display: block;
+}
+.life {
+    height: 1cm;
+    width: 0.1cm;
+    max-width: 1cm;
+    max-height: 1cm;
+}
+.agenda {
+    position: absolute;
+}
+button:hover {
+    color: blue;
+}
+button:active{
+    color: blueviolet;
+}
+.flex-container {
+    display: flex;
+    flex-direction: row-reverse
+}
+.item1 {
+    order: 5
+}
+.item2 {
+    flex-grow: 4;
+}
+.item3 {
+    flex-shrink: 3;
+}
+.grid{
+    display: grid;
+}
+.item4 {
+    grid-column-start: 2;
+    grid-row-end: 3;
+}
+.item5 {
+    justify-self: center;
+}
+@media screen and (max-width: 600px) {
+    h3 {
+      background-color: olive;
+    }
+}
+
+#ice-cream-flavors {
+    font-family: "myFont", "Georgia", serif;
+}
