@@ -14,10 +14,16 @@
 - member2:
   
 ### Current work progress
-
+- work1
+- work2
 ### Current problems
+1. problem1
+2. problem2
 
 ### unfinished work for each member
+- member1
+- member2
+- member3
 
 ### Preferred next meeting time
 
