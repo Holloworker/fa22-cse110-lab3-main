@@ -10,16 +10,14 @@
 
 
 ### General Responsibilities for All Team Members
+- member1:
+- member2:
+  
+### Current work progress
 
-
-### Current work progress.
-
-
-### Current problems.
-
+### Current problems
 
 ### unfinished work for each member
-
 
 ### Preferred next meeting time
 
